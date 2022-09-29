@@ -1,0 +1,6 @@
+certifi
+pymongo[srv]
+numpy==1.19.5
+pandas
+streamlit
+opencv-python-headless
